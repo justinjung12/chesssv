@@ -17,15 +17,12 @@ pandas==2.2.1
 pefile==2023.2.7
 Pillow==9.0.0
 pygame==2.1.2
-pyhwpx==0.10.30
 pyinstaller==5.10.1
 pyinstaller-hooks-contrib==2023.2
 pynput==1.7.6
 pyperclip==1.8.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
-pywin32-ctypes==0.2.0
 screeninfo==0.8
 six==1.16.0
 tzdata==2024.1
