@@ -243,7 +243,6 @@ def Surrender():
 
             
     return ''
-app.run(debug=True)   
 
 
 
